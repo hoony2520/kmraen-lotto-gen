@@ -12,3 +12,5 @@ function generate()
   	return numbers; 
 } // ==배열 안에 number가 포함되어 있는지 확인 ==/
 
+//정렬기능추가
+
